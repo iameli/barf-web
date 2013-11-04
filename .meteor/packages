@@ -8,5 +8,5 @@ autopublish
 insecure
 preserve-inputs
 coffeescript
-router
 bootstrap-3
+iron-router
